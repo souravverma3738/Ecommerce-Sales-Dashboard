@@ -36,11 +36,11 @@ Ecommerce businesses often face challenges in quickly identifying top-selling ca
 Goal of the Dashboard
 To create an interactive sales analytics tool that:
 
-Monitors sales, profit, and quantity trends over time.
+1. Monitors sales, profit, and quantity trends over time.
 
-Identifies top customers and profitable categories.
+2. Identifies top customers and profitable categories.
 
-Highlights popular payment modes and product demand by region.
+3. Highlights popular payment modes and product demand by region.
 
 Walkthrough of Key Visuals
 1. Key KPIs (Top Row)
