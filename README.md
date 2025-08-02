@@ -26,6 +26,7 @@ Source: Internal ecommerce order and product details data.
 Files Used:
 
 Orders.csv – Contains transactional order data (order date, state, payment mode, etc.).
+
 Details.csv – Contains product details (category, sub-category, quantity, and profit).
 
 🚀 Features / Highlights
